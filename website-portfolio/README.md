@@ -38,8 +38,8 @@ Feel free to navigate through the portfolio using the navbar and explore the dif
 
 ## Deployment
 
-The portfolio is currently deployed at [your-deployment-url](#). You can access it live by visiting [here](#).
-
+My portfolio is currently deployed and you can access it live by visiting https://65625560143ed16d4f94882c--astonishing-bavarois-53fd7d.netlify.app/.
+![Screenshot (255)](https://github.com/Jocy99/website-portfolio/assets/133434768/32fae6af-11c1-4c19-8917-9c8eed17fcf3)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
