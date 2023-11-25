@@ -50,7 +50,7 @@ const Navbar = ({ setCurrentPage }) => {
               <a
                 onClick={() => setCurrentPage("resume")}
                 className="nav-link"
-                aria-disabled="true"
+                href="#"
               >
                 Resume
               </a>

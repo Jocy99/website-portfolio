@@ -5,7 +5,7 @@ const Projects = (props) => {
   const { imageSrc } = props;
 
   return (
-    <div className="card" style={{ width: "15rem;", margin: "20px" }}>
+    <div className="card" style={{ width: "15rem;", margin: "20px", borderRadius: "40px;" }}>
       <img
         src={imageSrc}
         className="card-img-top"
